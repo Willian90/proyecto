@@ -5,3 +5,15 @@ h1{
     padding-top: 7px;
     border:yellow solid;
 }
+
+h2{
+    border: black solid;
+}
+
+.parrafo{
+    margin: 40px;
+    padding-top:47px ;
+    text-align: justify;
+    border: black solid;
+    display: grid;
+}
